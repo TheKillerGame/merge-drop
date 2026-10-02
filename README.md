@@ -9,7 +9,9 @@ By **RisingForce**.
 
 ## Play
 
-Open `index.html` in any browser, on a phone or a computer. It's a single file
+**Play it here: https://thekillergame.github.io/merge-drop/**
+
+Or open `index.html` in any browser, on a phone or a computer. It's a single file
 with no install, no server and no internet needed (the fonts are embedded and
 the sounds are made in code). Drag and release with a finger or the mouse, or
 use the arrow keys and Space.
